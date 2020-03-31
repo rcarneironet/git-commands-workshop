@@ -1,7 +1,9 @@
-#alterado via servidor
+#alterando arquivo
 
 # analisar versão
 git version
+
+# alterado
 
 # iniciar um repositório local
 git init
