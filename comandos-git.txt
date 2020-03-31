@@ -1,5 +1,3 @@
-#alterando arquivo
-
 # analisar versão
 git version
 
