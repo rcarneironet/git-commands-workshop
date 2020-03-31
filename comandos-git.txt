@@ -1,3 +1,5 @@
+#conteudo da brach copiada
+
 # analisar versão
 git version
 
