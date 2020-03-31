@@ -1,3 +1,5 @@
+#alterado via servidor
+
 # analisar versão
 git version
 
